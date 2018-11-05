@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 //codeforces 996A
+
 public class Main
 {
     // m is size of coins array (number of different coins)
