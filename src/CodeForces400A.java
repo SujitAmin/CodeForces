@@ -19,6 +19,7 @@ public class CodeForces400A {
             if(order.charAt(i) == 'L'){
                 x--;
             }
+
             else if(order.charAt(i) == 'R'){
                 x++;
             }
